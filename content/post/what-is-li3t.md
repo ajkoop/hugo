@@ -1,6 +1,6 @@
 ---
 title: "So, what is li3t exactly?"
-date: 2019-01-04T15:59:28-08:00
+date: 2025-03-09T15:59:28-08:00
 pin: true
 ---
 
