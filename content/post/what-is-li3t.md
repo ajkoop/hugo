@@ -16,5 +16,5 @@ That all depends. A small company or non-profit might only need a few hours of t
 
 ## Who is doing all the connecting here? 
 
-<a href="https://koop.ws">Andy Koop</a> and friends. Andy is a full-stack programmer with smart friends that specialize in various areas. 
+[Andy Koop](https://koop.ws) and friends. Andy is a full-stack programmer with smart friends that specialize in various areas. 
 
