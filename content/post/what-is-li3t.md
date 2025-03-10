@@ -6,6 +6,8 @@ pin: true
 
 > li3t lends a hand to companies and non-profits -- acting as a connector between systems. 
 
+<!--more-->
+
 ## That sounds magical
 
 To witness a series of disconnected systems changeover to a customized machine can certainly leave you feeling buzzy. It's not magic, but the results feel magical. 
