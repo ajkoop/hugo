@@ -10,7 +10,7 @@ pin: true
 
 ## That sounds magical
 
-To witness a series of disconnected systems changeover to a customized machine can certainly leave you feeling buzzy. It's not magic, but the results feel magical. Want to learn more? <a href="https://li3t.com/philosophy">Read about our philosophy</a>.
+To witness a series of disconnected systems changeover to a customized machine can certainly leave you feeling buzzy. It's not magic, but the results feel magical. Want to learn more? [Read about our philosophy](https://li3t.com/philosophy).
 
 ## Sounds...expensive
 
